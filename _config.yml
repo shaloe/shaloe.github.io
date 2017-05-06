@@ -1,1 +1,5 @@
 theme: jekyll-theme-time-machine
+deploy:
+    type: git
+    repo: git@github.com:shaloe/shaloe.github.io.git
+    branch: master
